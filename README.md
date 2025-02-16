@@ -1,8 +1,11 @@
 # Demo
-<video src="./assets/Projet-IA.mp4" controls width="600">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/972589e4-3fa4-4cac-9506-f6686d7b782d
 
+# Elaborated by:
+- Yassine ZRIBI
+- Hejer AIDI
+- Ilyes CHERIF
+- Wejden TAKTAK
 
 # Project Setup
 
