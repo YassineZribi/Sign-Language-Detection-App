@@ -1,11 +1,28 @@
+# Demo
+![Demo](./assets/Projet-IA.mp4)
+
+
 # Project Setup
 
-- Anaconda should be installed
+## Prerequisites  
+- Ensure that **Anaconda** is installed on your system.  
 
-cd Projects/
-git clone repoository-url
-cd repository-folder/
-conda create -n sign python=3.8 -y
-conda activate sign
-pip install -r requirements.txt 
-python app.py
+## Installation Steps  
+1. **Clone the repository** and navigate into the project directory:  
+   ```bash
+   git clone <repository-url>
+   cd <project-folder>
+   ```
+2. **Create and activate a virtual environment** using Conda:  
+   ```bash
+   conda create -n sign python=3.8 -y
+   conda activate sign
+   ```
+3. **Install project dependencies**:  
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. **Run the application**:  
+   ```bash
+   python app.py
+   ```
